@@ -1,0 +1,1 @@
+Introducing my Docker project which i make a TUI to run a all the basic commands of docker through my TUI menu.py file. And also i will make a docker-compose.yml file to make a container database and web server connectivity between mysql:5.7 and wordpress:5.1.1-php7.3-apache and run and start it through my TUI.
